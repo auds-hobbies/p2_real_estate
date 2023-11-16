@@ -1,7 +1,8 @@
 # REAL ESTATE ANALYSIS
 
 <h3>Project Overview:</h3> 
-TBA
+To be completed  
+
 <br>
 <section>
      
@@ -11,7 +12,7 @@ TBA
     </p>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
-     <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
+     <img src="ttps://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
     <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "350"  />
     </div>
 </section>
@@ -29,13 +30,13 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 
 
 <h3>Data Collection and Processing:</h3>
-TBC 
+TBA 
 
-<h3>Analytical Techniques Applied:</h3>
-TBC 
 
 <h3>Results and Insights:</h3>
-TBC
+- Interactive Power BI Dashboard:
+<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
+
 
 <h3>Future Developments:</h3>
-TBC
+Geo-Spatial Analysis,e.g., Hot/cold spot analysis to be completed.
