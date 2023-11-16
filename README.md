@@ -25,7 +25,7 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 
 
 - Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png " width="728"/> 
+<img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate2%20sales%20vol%20per%20yr.png " width="728"/> 
 
 
 
