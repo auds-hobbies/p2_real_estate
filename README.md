@@ -25,7 +25,7 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 
 
 - Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
+<img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png " width="728"/> 
 
 
 
@@ -34,8 +34,8 @@ TBA
 
 
 <h3>Results and Insights:</h3>
-- Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
+- Sales volume per day:
+<img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png " width="728"/> 
 
 
 <h3>Future Developments:</h3>
